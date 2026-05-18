@@ -3,7 +3,7 @@
 
 $ErrorActionPreference = "Stop"
 
-$Repo = "anthropics/claude-code-bug-catcher"
+$Repo = "AlbusZhuo/claude-code-bug-catcher"
 $SkillsDir = "$env:USERPROFILE\.claude\skills"
 $TargetDir = "$SkillsDir\bug-catcher"
 

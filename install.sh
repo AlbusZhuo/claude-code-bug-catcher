@@ -4,7 +4,7 @@
 
 set -euo pipefail
 
-REPO="anthropics/claude-code-bug-catcher"
+REPO="AlbusZhuo/claude-code-bug-catcher"
 SKILLS_DIR="${HOME}/.claude/skills"
 TARGET_DIR="${SKILLS_DIR}/bug-catcher"
 

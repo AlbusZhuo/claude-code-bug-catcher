@@ -5,7 +5,7 @@
 **95% of AI-generated bugs caught in under 3 seconds.**
 
 [![Install](https://img.shields.io/badge/install-one--line-brightgreen)](#install)
-[![Stars](https://img.shields.io/github/stars/anthropics/claude-code-bug-catcher?style=social)](https://github.com/anthropics/claude-code-bug-catcher)
+[![Stars](https://img.shields.io/github/stars/AlbusZhuo/claude-code-bug-catcher?style=social)](https://github.com/AlbusZhuo/claude-code-bug-catcher)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -41,19 +41,19 @@ You catch some. You miss others. You waste hours debugging what should have been
 
 **Linux / macOS / WSL:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/anthropics/claude-code-bug-catcher/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/AlbusZhuo/claude-code-bug-catcher/main/install.sh | bash
 ```
 
 **Windows PowerShell:**
 ```powershell
-irm https://raw.githubusercontent.com/anthropics/claude-code-bug-catcher/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/AlbusZhuo/claude-code-bug-catcher/main/install.ps1 | iex
 ```
 
 ### Manual Install
 
 ```bash
 # Clone the repo
-git clone https://github.com/anthropics/claude-code-bug-catcher.git
+git clone https://github.com/AlbusZhuo/claude-code-bug-catcher.git
 
 # Copy skills to your Claude Code skills directory
 cp -r claude-code-bug-catcher/skills/bug-catcher ~/.claude/skills/
@@ -217,7 +217,7 @@ We love contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=anthropics/claude-code-bug-catcher&type=Date)](https://star-history.com/#anthropics/claude-code-bug-catcher&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AlbusZhuo/claude-code-bug-catcher&type=Date)](https://star-history.com/#AlbusZhuo/claude-code-bug-catcher&Date)
 
 ## License
 
